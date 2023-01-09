@@ -1,4 +1,4 @@
-# New-Elite-101
+# Elite-101-PreWork README
 This repository will have a Replit ChatBot of a Retail Store conversation created in Python.
 Include import random;
 Generate some questions and responses to the user;
